@@ -2,11 +2,6 @@
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
 
-Here below the result of the project:
-
-PART 1:
-see Image Classifier Project.html
-
 PART 2:
 1. Train with vgg16
 > python train.py flowers --gpu True --save_dir checkpoint_vgg16.pth
